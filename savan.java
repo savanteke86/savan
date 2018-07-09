@@ -18,6 +18,7 @@ public class fibona
 			System.out.println(a+"");
 			
 		}
+		System.out.println("Thank you");
 		
 	}
 
